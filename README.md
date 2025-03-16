@@ -8,4 +8,4 @@
 - Music nerd and a gymgoer 🏃‍♂️🎞️📖🎨
 - Recreational Guitarist 🎸
 
-[![My Skills](https://skillicons.dev/icons?i=python,selenium,linkedin,github,html,css,javascript,mysql,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,selenium,ai,html,css,javascript,mysql,java,linkedin,github)](https://skillicons.dev)
