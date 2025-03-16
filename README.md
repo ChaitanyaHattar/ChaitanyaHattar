@@ -8,4 +8,5 @@
 - Music nerd and a gymgoer 🏃‍♂️🎞️📖🎨
 - Recreational Guitarist 🎸
 
+## Tech Stack  
 [![My Skills](https://skillicons.dev/icons?i=python,selenium,ai,html,css,javascript,mysql,java,linkedin,github)](https://skillicons.dev)
